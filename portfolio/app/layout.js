@@ -19,6 +19,9 @@ export const metadata = {
     "Web developer portfolio",
   ],
   authors: [{ name: siteConfig.name }],
+  verification: {
+    google: "cipuyK4LeIwkgCpWrpRhBDl-eMSfhzuwbXDq9jkAFc0",
+  },
   openGraph: {
     title: `${siteConfig.name} — ${siteConfig.role}`,
     description: siteConfig.shortBio,
